@@ -1,0 +1,8 @@
+{
+    "workbench.settings.editor": "json",
+    "python.defaultInterpreterPath": "~/miniconda3/envs/mle-dev/bin/python",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
